@@ -1,3 +1,3 @@
 # gitskill
 skill for git command
-create a new branch is quick.
+create a new Branch is so quick and simple.
