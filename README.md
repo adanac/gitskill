@@ -1,2 +1,2 @@
 # gitskill
-skill for git command 
+Git can create branch with no-ff.
